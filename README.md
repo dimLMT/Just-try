@@ -23,6 +23,10 @@ The finely tuned Random Forest model yielded our best results, as evidenced by t
 - With this model, the error in predicting product sales is expected to fall within a range of ±$1,048.798. However, it's important to note that this model is not perfect, as indicated by an R-squared value of approximately 0.6.
 - It is recommended to explore additional models to potentially improve predictive accuracy.
 
+<img width="700" alt="image" src="https://github.com/dimLMT/Prediction-of-Product-Sales/assets/36935946/115fb79c-9c65-4fa7-8373-a88db4575074">
+
+The random forest permutation importances had the following features as important: Item_MRP, Outlet_Type_Grocery Store, Outlet_Identifier_OUT027, Outlet_Type_Supermarket Type3, Outlet_Establishment_Year
+
 
 
 
