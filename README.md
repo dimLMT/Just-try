@@ -20,7 +20,7 @@ The finely tuned Random Forest model yielded our best results, as evidenced by t
 
 <img width="500" alt="image" src="https://github.com/dimLMT/Prediction-of-Product-Sales/assets/36935946/567c2c64-9da9-4dd5-97e9-3ceb502889dc">
 
-- With this model, the error in predicting product sales is expected to fall within a range of ±$1,048.798. However, it's important to note that this model is not perfect, as indicated by an R-squared value of approximately 0.6.
+- With this model, the error in predicting product sales is expected to fall within a range of ±$1,048.798. However, it's important to note that this model is not perfect, as indicated by an R-squared value of approximately 0.6. This value suggests that the prediction can explain 60% of the variability in the outlet sales value.
 - It is recommended to explore additional models to potentially improve predictive accuracy.
 
 <img width="700" alt="image" src="https://github.com/dimLMT/Prediction-of-Product-Sales/assets/36935946/115fb79c-9c65-4fa7-8373-a88db4575074">
