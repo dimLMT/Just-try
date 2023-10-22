@@ -27,6 +27,9 @@ The finely tuned Random Forest model yielded our best results, as evidenced by t
 
 The random forest permutation importances had the following features as important: Item_MRP, Outlet_Type_Grocery Store, Outlet_Identifier_OUT027, Outlet_Type_Supermarket Type3, Outlet_Establishment_Year
 
+SHAP is a package that leverages game theory and the idea of marginal contributions to determine how each feature affects the model's predictions, producing what is called a global explanation.
+
+<img width="700" alt="image" src="https://github.com/dimLMT/Prediction-of-Product-Sales/assets/36935946/b97543b6-21c5-4efd-8356-3a5aba9724c4">
 
 
 
